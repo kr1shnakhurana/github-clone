@@ -76,7 +76,7 @@ const Footer = (props: Props) => {
          <div className='center'>
           <ul className='flex justify-center items-center mb-4 sm:mb-0 text-[#7d8590] flex-wrap' >
            
-      <li className="mr-3">Made with ❤️ & ☕ by <a href="https://krishnakhurana.netlify.app">Krishna khurana</a></li>
+      <li className="mr-3">Made with ❤️ by <a href="https://krishnakhurana.netlify.app">Krishna khurana</a></li>
         
           </ul>
           </div>
